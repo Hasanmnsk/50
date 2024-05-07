@@ -1,0 +1,10 @@
+#Mehedi Hasan
+#mehedi.hasan79@myhunter.cuny.edu
+
+using namespace std;
+
+int main(){
+    cout << "Hello, World!";
+    cout << "Hello, C++!";
+    return 0;
+} 
